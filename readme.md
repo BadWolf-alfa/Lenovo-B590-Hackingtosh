@@ -1,7 +1,8 @@
 # Lenovo B590
 ## Model Number: 6274
 
-[![N|Solid](https://xtremmedia.com/gestor/files/images/A013524_1_1.jpeg)
+(https://xtremmedia.com/gestor/files/images/A013524_1_1.jpeg)
+
 Hackingtosh on Lenovo B590-6274 what's there:
 - Specs of model computer
 - Bios Modded and their install file working on Windows 64b for update
@@ -19,9 +20,6 @@ Hackingtosh on Lenovo B590-6274 what's there:
 - SDCard: Alcor Micro Corp.- 
 > All this it's working on Mac OS Big Sur inclusive the backlight of screen, audio jack... Keyboard keys for control brighness and volume... etc....
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Modded Bios:  H1ET85WW 1.23
 
