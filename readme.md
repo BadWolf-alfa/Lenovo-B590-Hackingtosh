@@ -1,7 +1,7 @@
 # Lenovo B590
 ## Model Number: 6274
 
-(https://xtremmedia.com/gestor/files/images/A013524_1_1.jpeg)
+![N|Solid](https://xtremmedia.com/gestor/files/images/A013524_1_1.jpeg)
 
 Hackingtosh on Lenovo B590-6274 what's there:
 - Specs of model computer
